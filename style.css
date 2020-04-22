@@ -20,5 +20,14 @@ p {
 }
 
 div{
-    border: 2px dashed white;
+    border-style: dashed;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-top-width: 3px;
+    border-radius: 10px;
+}
+
+img {
+    box-shadow: 5px 5px 5px 5px white;
 }
