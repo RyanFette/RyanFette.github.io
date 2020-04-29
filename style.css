@@ -1,9 +1,11 @@
 h2 {
-    color: grey;
+    color: lightgrey;
     font-family: "Arial";
     padding: 5px;
     padding-top: 3px;
     margin: 0px;
+    margin-right: 70%;
+    border-style: solid;
     
 }
 
@@ -22,7 +24,9 @@ p {
     color: yellow;
     padding-left: 5px
 }
-
+li{
+    padding-left: 5px;
+}
 div{
     border-style: dashed;
     border-top-style: solid;
@@ -31,6 +35,7 @@ div{
     border-top-width: 3px;
     border-radius: 10px;
     margin-bottom: 30px;
+    margin-top: 30px;
 }
 
 img {
@@ -39,6 +44,38 @@ img {
     margin-bottom: 10px;
 }
 
-ol{
-    margin: 0px;
+#secret{
+    margin-right: 75%;
+}
+
+#movie{
+    margin-right: 75%;
+}
+
+#food{
+    margin-right: 75%;
+}
+
+#state{
+    margin-right: 75%;
+}
+
+#about{
+    margin-right: 75%;
+}
+
+#website{
+    margin-right: 75%;
+}
+
+#color{
+    margin-right: 75%;
+}
+
+#questions{
+    margin-right: 75%;
+}
+
+#experiment{
+    margin-right: 65%;
 }
